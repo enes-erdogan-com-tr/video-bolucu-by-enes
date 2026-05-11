@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Video Bölücü by Enes</string>
+    <string name="screen_title">Video Bölücü by Enes</string>
+    <string name="subtitle">Videoyu seç, parça süresini belirle, Movies/VideoBolucu klasörüne kaydet ve paylaş.</string>
+    <string name="action_pick_video">Video Seç</string>
+    <string name="selected_video_none">Seçili video yok.</string>
+    <string name="selected_video_value">Seçili video: %1$s</string>
+    <string name="segment_duration_title">Parça süresi</string>
+    <string name="duration_30">30 saniye</string>
+    <string name="duration_60">60 saniye</string>
+    <string name="duration_90">90 saniye</string>
+    <string name="duration_custom">Özel süre</string>
+    <string name="duration_custom_hint">Özel süre (saniye)</string>
+    <string name="default_custom_seconds">45</string>
+    <string name="action_split_save">Böl ve Kaydet</string>
+    <string name="saved_segments_title">Kaydedilen parçalar</string>
+    <string name="action_share_all">Tümünü Paylaş</string>
+    <string name="action_share">Paylaş</string>
+    <string name="toast_pick_video_first">Önce bir video seç.</string>
+    <string name="toast_valid_seconds">Geçerli bir saniye değeri gir.</string>
+    <string name="status_started">İşlem başladı.</string>
+    <string name="status_progress">%1$s (%2$d/%3$d)</string>
+    <string name="status_completed">Tamamlandı. Parçalar Movies/VideoBolucu klasörüne kaydedildi.</string>
+    <string name="status_error">Hata: %1$s</string>
+    <string name="toast_split_failed">Video bölünemedi.</string>
+    <string name="share_single_title">Video parçası paylaş</string>
+    <string name="share_all_title">Video parçalarını paylaş</string>
+    <string name="status_video_selected">Video seçildi. Süreyi belirleyip bölmeyi başlatabilirsin.</string>
+    <string name="toast_storage_permission_required">Kaydetmek için depolama izni gerekli.</string>
+    <string name="default_video_name">video</string>
+</resources>

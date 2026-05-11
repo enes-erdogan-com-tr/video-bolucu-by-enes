@@ -1,0 +1,18 @@
+﻿Video Bölücü by Enes - GitHub Public Source Package
+
+Generated: 2026-05-11 23:06:12 +03:00
+
+Included:
+- Android source code
+- Gradle wrapper and build files
+- GitHub Pages privacy policy under docs/
+- Store graphics under store-assets/
+- Contribution, security and license files
+
+Excluded intentionally:
+- keystore.properties
+- real keystore files (*.jks, *.keystore, *.p12, *.pem)
+- local.properties
+- app/build and .gradle outputs
+- AAB/APK/ZIP release packages
+- private Play Console operational notes

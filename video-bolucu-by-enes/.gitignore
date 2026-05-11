@@ -1,0 +1,24 @@
+.gradle/
+.idea/
+build/
+local.properties
+*.iml
+*.class
+
+# Local release/backups may contain signing secrets.
+release-packages/
+release-final/
+github-public-export/
+*.zip
+*.aab
+*.apk
+
+# Android build outputs
+app/build/
+
+# Release signing secrets - keep these outside git.
+keystore.properties
+*.jks
+*.keystore
+*.p12
+*.pem
